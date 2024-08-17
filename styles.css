@@ -1,0 +1,40 @@
+body {background-image: url(https://cdn1.epicgames.com/offer/24b9b5e323bc40eea252a10cdd3b2f10/EGS_LeagueofLegends_RiotGames_S1_2560x1440-80471666c140f790f28dff68d72c384b);
+    background-attachment: fixed;
+    font-family: Tahoma;
+    padding: 20px; 
+    color: black;
+    font-size: 20px;
+    }
+    h1, p {text-align: center;
+    margin: 1em auto;
+    color: white;
+    text-shadow:
+        -1px -1px 0 #000,
+        1px -1px 0 #000,
+        -1px 1px 0 #000,
+        1px 1px 0 #000;}
+    fieldset {background-color: skyblue;
+    width: min(400px, 100%);
+    margin: auto;
+    border: none;
+    border-bottom: 3px solid;
+    border-radius: 20px;}
+    form {margin: 0 auto;}
+    input {border-radius: 5px;
+    display: block;
+    width: min(100%, 300px);
+    margin: auto;}
+    input[type="submit"] {margin: 1em auto;
+    background-color: red;
+    width: 100px;
+    height: 25px;
+    display: block;
+    font-size: 17px;
+    font-family: Tahoma;
+    color: #85FF9E;
+    border-radius: 500px;}
+    label {display: block;
+    text-align: center;}
+    textarea {border-radius: 10px;
+    width: 80%;
+    height: 100px}
